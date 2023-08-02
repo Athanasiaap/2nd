@@ -1,2 +1,2 @@
-# 2nd
-Example of README
+# Example of README
+
